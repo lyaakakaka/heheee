@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `ASSALAMUALAIKUM WARAHMATULLAHI WABARAKATUH! kak, semangat terus ya menjalani masa smk nya, meskipun pastinya cape banget ngejalaninnya,take a break for a while kak, don't be too hard to urself :O, sejauh ini U DO A GREAT JOB KAK!!!! PROUDOFU, wink. aku bakal jadi supporter kakak Numero uno!! cape itu wajar kak! gapapa lah ngeluh dikit, normal booozzzZ, oh iya hari ini, how was ur day kak? Alhamdulillah.. tepuk pramuka, prok prok prok, prok prok prok, prok prok prok prok prok prok prok, segitu dulu deh kak,SEMANGATTTT TROZZZ INTINYA, tormonitor ketua anggota mau lapor ketua, siap izin pamit jenderal!`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
