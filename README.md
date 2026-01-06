@@ -1,2 +1,3 @@
 # letter-project
-"i hope you read this, even if it's too late."
+"kamu harus baca semua ini hingga habis
+penghujungnya ya!!."
