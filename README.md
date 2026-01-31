@@ -1,2 +1,2 @@
 # letter-project
-"i hope you read this, even if it's too late."
+"jangan pernah ngerasa eca berjalan sendirian di dunia ini, lihat kebelakang ada aku yang selalu memperhatikan eca dari belakang."
