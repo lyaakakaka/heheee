@@ -88,3 +88,7 @@ body {
   pointer-events: none;
   transform: rotate(-2deg);
 }
+.letter {
+  height: auto;
+  overflow: visible;
+}
